@@ -16,7 +16,7 @@ idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.3
 libcst==0.3.17
-Mako==1.1.4.dev0
+Mako==1.1.4
 Markdown @ file:///buildstream/freedesktop-sdk/components/python3-markdown.bst
 MarkupSafe==1.1.1
 meson @ file:///buildstream/freedesktop-sdk/components/meson.bst
