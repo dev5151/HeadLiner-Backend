@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 
 
-@app.route("/all")
+@app.route("/")
 
 def fetchNews():
 
