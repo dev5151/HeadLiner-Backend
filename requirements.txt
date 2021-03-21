@@ -17,9 +17,9 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 libcst==0.3.17
 Mako==1.1.4
-Markdown @ file:///buildstream/freedesktop-sdk/components/python3-markdown.bst
+Markdown ==3.3.4
 MarkupSafe==1.1.1
-meson @ file:///buildstream/freedesktop-sdk/components/meson.bst
+meson ==0.57.1
 mypy-extensions==0.4.3
 packaging==20.9
 proto-plus==1.18.1
